@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LogiCivilApp/1.0.0": {
+        "runtime": {
+          "LogiCivilApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogiCivilApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
