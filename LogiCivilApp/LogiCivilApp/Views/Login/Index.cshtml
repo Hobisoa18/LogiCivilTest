@@ -12,19 +12,20 @@
 </section>
 <section class="login-content">
     <div class="logo">
+        <img src="https://www.svgrepo.com/show/282312/kilograms-justice.svg" alt="Alternate Text" />
         <h1>Logicivil</h1>
     </div>
     <div class="login-box">
 
-        <form class="login-form" action="index.html">
+        <form class="login-form" asp-action="Authentification" asp-controller="Login">
             <h4 class="login-head"><i class="bi bi-person me-2"></i>SIGN IN</h4>
             <div class="mb-3">
                 <label class="form-label">USERNAME</label>
-                <input class="form-control" type="text" placeholder="Email" autofocus>
+                <input class="form-control" type="text" placeholder="Email" autofocus name="email" value="@TempData["email"]">
             </div>
             <div class="mb-3">
                 <label class="form-label">PASSWORD</label>
-                <input class="form-control" type="password" placeholder="Password">
+                <input class="form-control" type="password" placeholder="Password" name="password">
             </div>
             <div class="mb-3">
                 <div class="utility">
@@ -37,9 +38,8 @@
                 </div>
             </div>
             <div class="mb-3 btn-container d-grid">
-                <button class="btn btn-primary btn-block"><i class="bi bi-box-arrow-in-right me-2 fs-5"></i>SIGN IN</button>
+                <button type="submit" class="btn btn-primary btn-block"><i class="bi bi-box-arrow-in-right me-2 fs-5"></i>SIGN IN</button>
             </div>
-           
         </form>
 
     </div>

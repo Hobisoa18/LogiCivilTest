@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a3EmCMQlgn2+GTdtX62d4eQjLY9Ivwl8p3pupvTBGUg=",
+  "Hash": "AOhbFQuhGOO0wn4WP88nNByYvIVoV4xvO3WegIaeYvY=",
   "Source": "LogiCivilApp",
   "BasePath": "_content/LogiCivilApp",
   "Mode": "Default",
@@ -148,25 +148,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\wwwroot\\images\\kilograms-justice-svgrepo-com.svg",
-      "SourceId": "LogiCivilApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\wwwroot\\",
-      "BasePath": "_content/LogiCivilApp",
-      "RelativePath": "images/kilograms-justice-svgrepo-com.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\kilograms-justice-svgrepo-com.svg"
     },
     {
       "Identity": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\wwwroot\\js\\main.js",

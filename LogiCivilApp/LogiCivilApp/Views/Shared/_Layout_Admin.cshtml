@@ -1,4 +1,13 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+@using System.Text.Json
+@{
+    string? profil_Name = Context.Session.GetString("PrName_User");
+    var userData = Context.Session.GetString("User");
+    Utilisateur? user = JsonSerializer.Deserialize<Utilisateur>(userData); ;
+}
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -19,12 +28,15 @@
 
 
     <header class="app-header">
-        <a class="app-header__logo" href="index.html"> Logicivil </a>
+        <a class="app-header__logo" href="index.html">
+            <img src="https://www.svgrepo.com/show/282312/kilograms-justice.svg" width="30" height="30" style="margin-bottom:15px">
+            Logicivil
+        </a>
         <!-- Sidebar toggle button--><a class="app-sidebar__toggle" data-toggle="sidebar" aria-label="Hide Sidebar"></a>
         <!-- Navbar Right Menu-->
         <ul class="app-nav">
             <li class="app-search">
-                <h4 style="color:aliceblue">RAZANADAHY Sahaza Mandresy</h4>
+                <h4 style="color:aliceblue">@user.Nom @user.Prenom</h4>
             </li>
             <!--Notification Menu-->
             <li class="dropdown">
@@ -109,7 +121,7 @@
             <img class="app-sidebar__user-avatar" src="https://cdn-icons-png.flaticon.com/256/10529/10529010.png" alt="User Image">
             <div>
                 <p class="app-sidebar__user-name">Compte</p>
-                <p class="app-sidebar__user-designation">Administrateur</p>
+                <p class="app-sidebar__user-designation">@profil_Name</p>
             </div>
         </div>
         <ul class="app-menu">
@@ -168,7 +180,7 @@
     <!--**********************************
                 Footer start
             ***********************************-->
-    <div class="footer" style="text-align:end">
+    <div class="footer" style="text-align:center">
         <div class="copyright">
             <p></p>
             <p>Copyright © Designed &amp; Developed by <a href="" target="_blank">Mandresy Sahaza</a> 2024  </p>
@@ -183,11 +195,9 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
-
     <!-- Template -->
     <script src="~/js/main.js"></script>
 
-   
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>

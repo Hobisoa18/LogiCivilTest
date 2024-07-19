@@ -25,10 +25,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\wwwroot\\images\\kilograms-justice-svgrepo-com.svg",
-      "PackagePath": "staticwebassets\\images\\kilograms-justice-svgrepo-com.svg"
-    },
-    {
       "Id": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
