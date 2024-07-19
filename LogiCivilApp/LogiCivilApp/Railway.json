@@ -1,0 +1,12 @@
+{
+    "builds": [
+      {
+        "src": "./",
+        "use": "dotnet",
+        "cmd": "dotnet publish -c Release -o /app"
+      }
+    ],
+    "run": {
+      "cmd": "dotnet /app/MyApp.dll"
+    }
+  }

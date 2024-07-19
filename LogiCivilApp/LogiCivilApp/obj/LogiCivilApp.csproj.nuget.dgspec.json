@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj": {}
+    "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj": {}
   },
   "projects": {
-    "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj": {
+    "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj",
+        "projectUniqueName": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj",
         "projectName": "LogiCivilApp",
-        "projectPath": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj",
+        "projectPath": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\LogiCivilApp.csproj",
         "packagesPath": "C:\\Users\\mandr\\.nuget\\packages\\",
-        "outputPath": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\obj\\",
+        "outputPath": "Y:\\MemoireL3\\Memoire&Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mandr\\AppData\\Roaming\\NuGet\\NuGet.Config",

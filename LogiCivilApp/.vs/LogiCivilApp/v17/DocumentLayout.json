@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\",
+  "WorkspaceRootPath": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|y:\\memoirel3\\memoire\u0026presentation\\logicivil\\logicivilapp\\logicivilapp\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|y:\\memoirel3\\memoire\u0026presentation\\logiciviltest\\logicivilapp\\logicivilapp\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|solutionrelative:logicivilapp\\views\\shared\\_layout_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|y:\\memoirel3\\memoire\u0026presentation\\logicivil\\logicivilapp\\logicivilapp\\models\\services\\utilisateur_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|y:\\memoirel3\\memoire\u0026presentation\\logiciviltest\\logicivilapp\\logicivilapp\\models\\services\\utilisateur_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|solutionrelative:logicivilapp\\models\\services\\utilisateur_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|y:\\memoirel3\\memoire\u0026presentation\\logicivil\\logicivilapp\\logicivilapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|y:\\memoirel3\\memoire\u0026presentation\\logiciviltest\\logicivilapp\\logicivilapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BF4E065-1FE1-48E0-83FF-1EC363870E84}|LogiCivilApp\\LogiCivilApp.csproj|solutionrelative:logicivilapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Utilisateur_Service.cs",
-              "DocumentMoniker": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\Models\\Services\\Utilisateur_Service.cs",
+              "DocumentMoniker": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\Models\\Services\\Utilisateur_Service.cs",
               "RelativeDocumentMoniker": "LogiCivilApp\\Models\\Services\\Utilisateur_Service.cs",
-              "ToolTip": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\Models\\Services\\Utilisateur_Service.cs",
+              "ToolTip": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\Models\\Services\\Utilisateur_Service.cs",
               "RelativeToolTip": "LogiCivilApp\\Models\\Services\\Utilisateur_Service.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout_Admin.cshtml",
-              "DocumentMoniker": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\Views\\Shared\\_Layout_Admin.cshtml",
+              "DocumentMoniker": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\Views\\Shared\\_Layout_Admin.cshtml",
               "RelativeDocumentMoniker": "LogiCivilApp\\Views\\Shared\\_Layout_Admin.cshtml",
-              "ToolTip": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\Views\\Shared\\_Layout_Admin.cshtml",
+              "ToolTip": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\Views\\Shared\\_Layout_Admin.cshtml",
               "RelativeToolTip": "LogiCivilApp\\Views\\Shared\\_Layout_Admin.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "LogiCivilApp\\Controllers\\LoginController.cs",
-              "ToolTip": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivil\\LogiCivilApp\\LogiCivilApp\\Controllers\\LoginController.cs",
+              "ToolTip": "Y:\\MemoireL3\\Memoire\u0026Presentation\\LogiCivilTest\\LogiCivilApp\\LogiCivilApp\\Controllers\\LoginController.cs",
               "RelativeToolTip": "LogiCivilApp\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAwCAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

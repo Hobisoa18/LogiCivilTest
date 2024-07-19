@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogiCivilApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6527f8b7e944165eb19677af8ea37c7a3e145b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3acde1a9363d8c0bf0d98ad1d8d9342873352b7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogiCivilApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogiCivilApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
